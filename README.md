@@ -32,8 +32,4 @@ and that's just the beginning!
 
 ### Use the following links to get started
 
-*   **Install** R4MVC is distributed using using [NuGet](http://nuget.org). Visit the [Installation page](https://github.com/enricosoft/R4MVC/wiki/Installation)
-*   **Learn**: visit the [Documentation page](https://github.com/enricosoft/R4MVC/wiki/Documentation)
 *   **Discuss**: Discuss it on [GitHub](https://github.com/enricosoft/R4MVC/issues)
-*   **Contribute**
-*   **History &amp; release notes**: [change history](CHANGELOG.md)
