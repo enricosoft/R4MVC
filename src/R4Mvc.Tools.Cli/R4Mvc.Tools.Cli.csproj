@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>r4mvc</AssemblyName>
     <ContentTargetFolders>tools</ContentTargetFolders>
     <PackAsTool>true</PackAsTool>
@@ -10,11 +10,11 @@
 
   <PropertyGroup>
     <PackageId>R4Mvc.Tools.Cli</PackageId>
-    <Authors>Kevin Kuszyk, Scott Mackay, Artiom Chilaru</Authors>
+    <Authors>Kevin Kuszyk, Scott Mackay, Artiom Chilaru, Enrico Piccini</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/T4MVC/R4MVC</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/T4MVC/R4MVC</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/enricosoft/R4MVC</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/enricosoft/R4MVC</RepositoryUrl>
     <Title>R4Mvc Cli Tool</Title>
     <Description>R4Mvc is a tool that generates strongly typed helpers for ASP.NET Core MVC.</Description>
     <PackageTags>aspnetcore mvc r4mvc</PackageTags>

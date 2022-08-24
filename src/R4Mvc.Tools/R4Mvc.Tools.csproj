@@ -11,11 +11,11 @@
 
   <PropertyGroup>
     <PackageId>R4Mvc.Tools</PackageId>
-    <Authors>Kevin Kuszyk, Scott Mackay, Artiom Chilaru</Authors>
+    <Authors>Kevin Kuszyk, Scott Mackay, Artiom Chilaru, Enrico Piccini</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/T4MVC/R4MVC</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/T4MVC/R4MVC</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/enricosoft/R4MVC</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/enricosoft/R4MVC</RepositoryUrl>
     <Title>R4Mvc Tools</Title>
     <Description>R4Mvc is a tool that generates strongly typed helpers for ASP.NET Core MVC.</Description>
     <PackageTags>aspnetcore mvc r4mvc</PackageTags>
