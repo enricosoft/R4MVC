@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <AssemblyName>r4mvc</AssemblyName>
     <ContentTargetFolders>tools</ContentTargetFolders>
     <PackAsTool>true</PackAsTool>
@@ -18,7 +18,7 @@
     <Title>R4Mvc Cli Tool Custom</Title>
     <Description>R4Mvc is a tool that generates strongly typed helpers for ASP.NET Core MVC.</Description>
     <PackageTags>aspnetcore mvc r4mvc</PackageTags>
-    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionPrefix>2.2.0</VersionPrefix>
     <AssemblyVersion Condition="$(BuildNumber) != ''">$(VersionPrefix).$(BuildNumber)</AssemblyVersion>
     <PackageReleaseNotes>
 + First version of the dotnet cli wrapper around R4Mvc.Tools
@@ -39,7 +39,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Content Include="..\R4Mvc.Tools\bin\$(Configuration)\net472\*" />
+    <Content Include="..\R4Mvc.Tools\bin\$(Configuration)\net80\*" />
   </ItemGroup>  
 
 </Project>

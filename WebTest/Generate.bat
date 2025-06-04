@@ -1,0 +1,1 @@
+dotnet "..\src\R4Mvc.Tools\bin\Release\net8.0\R4Mvc.Tools.dll" generate

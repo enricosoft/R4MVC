@@ -12,7 +12,7 @@ namespace R4Mvc.Tools.Cli
         {
             if (Environment.OSVersion.Platform != PlatformID.Win32NT)
             {
-                Console.WriteLine("Sorry, this tol is only available on Windows based platforms at this time.");
+                Console.WriteLine("Sorry, this tool is only available on Windows based platforms at this time.");
                 return;
             }
             var currentPath = Path.GetDirectoryName(typeof(Program).Assembly.Location);
